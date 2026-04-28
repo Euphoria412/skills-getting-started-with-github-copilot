@@ -74,6 +74,24 @@ activities = {
         "schedule": "Tuesdays, 3:00 PM - 4:30 PM",
         "max_participants": 25,
         "participants": ["harper@mergington.edu", "logan@mergington.edu"]
+    },
+    "Volleyball Team": {
+        "description": "Practice and compete in volleyball matches",
+        "schedule": "Mondays and Wednesdays, 5:00 PM - 6:30 PM",
+        "max_participants": 14,
+        "participants": ["noah@mergington.edu", "mia@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Capture and edit photos while learning composition and lighting",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["elie@mergington.edu"]
+    },
+    "Robotics Club": {
+        "description": "Build robots and participate in engineering challenges",
+        "schedule": "Wednesdays, 4:00 PM - 6:00 PM",
+        "max_participants": 18,
+        "participants": ["owen@mergington.edu", "zoe@mergington.edu"]
     }
 }
 
